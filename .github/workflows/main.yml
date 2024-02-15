@@ -23,8 +23,8 @@ jobs:
           
       - name: Pull files
         run: |
-          git config --local user.email "mastermind@moviescomplex.live"
-          git config --local user.name "Master-Mind-007"
+          git config --local user.email "smith@Illegal.cash"
+          git config --local user.name "std-fs"
           git pull origin main
       
       - name: Get proxies
